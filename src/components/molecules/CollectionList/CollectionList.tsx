@@ -30,6 +30,7 @@ function CollectionList({ title, collections }: CollectionListProps) {
         }}
       >
         {collections.map((collection, i) => {
+          console.log(collection.poster_path)
           return (
             <SwiperSlide
               style={{ width: 179 }}
@@ -43,10 +44,14 @@ function CollectionList({ title, collections }: CollectionListProps) {
                 data-aos-delay={i * 100}
                 style={{ height: '100%' }}
               >
+                
                 <Collection
                   src={
-                    'https://image.tmdb.org/t/p/w500/' + collection.poster_path
+                    // 'https://image.tmdb.org/t/p/w500/' + collection.poster_path
+                    'http://localhost:8000' + collection.poster_path
+                    // 'http://localhost:8000/static/web-crawler.jpeg' 
                   }
+                  
                   alt={collection.title}
                 />
               </div>

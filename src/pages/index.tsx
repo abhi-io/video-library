@@ -13,6 +13,7 @@ import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { GenreContext } from 'context'
 import { Router } from 'next/router'
+import { m } from 'vitest/dist/index-ea17aa0c'
 
 type HomeProps = {
   movies: Array<Movie & { certification: Certification | null }>
@@ -222,6 +223,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       return { ...movie, certification }
     })
   )
+  // console.log(moviesWithAllData)
 
   let { data: heroData } = await api.get('movie/791373')
   const {

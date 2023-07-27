@@ -2,7 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['m.media-amazon.com', 'image.tmdb.org']
+    domains: ['m.media-amazon.com', 'image.tmdb.org', 'localhost']
+    // domains: ['127.0.0.1:8000']
   }
 }
 
