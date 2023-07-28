@@ -2,7 +2,7 @@
     "page": 1,
     "results": [
         {
-            "backdrop_path": "/aWPhMZ0P2DyfWB7k5NXhGHSZHGC.jpg",
+            "backdrop_path": "static/pic-logo1.png",
             "first_air_date": "2023-05-08",
             "genre_ids": [
                 18,
@@ -10,12 +10,12 @@
                 10766
             ],
             "id": 209265,
-            "name": "Terra e Paixão",
+            "name": "ചോദ്യോത്തര വെള ",
             "origin_country": [
                 "BR"
             ],
             "original_language": "pt",
-            "original_name": "Terra e Paixão",
+            "original_name": "ചോദ്യോത്തര വെള ",
             "overview": "",
             "popularity": 3328.436,
             "poster_path": "/5kCMJ0vVzN9PsoamKctNnUz68Q2.jpg",
@@ -23,18 +23,18 @@
             "vote_count": 62
         },
         {
-            "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "1952-12-26",
             "genre_ids": [
                 10763
             ],
             "id": 94722,
-            "name": "Tagesschau",
+            "name": "കേരളത്തെ അഭിമാനത്തിന്റെ നെറുകയിലെത്തിച്ച ",
             "origin_country": [
                 "DE"
             ],
             "original_language": "de",
-            "original_name": "Tagesschau",
+            "original_name": "കേരളത്തെ അഭിമാനത്തിന്റെ നെറുകയിലെത്തിച്ച ",
             "overview": "German daily news program, the oldest still existing program on German television.",
             "popularity": 3065.8,
             "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -42,7 +42,7 @@
             "vote_count": 47
         },
         {
-            "backdrop_path": "/57clBMPX25NNO6nmDw3TV3zQaQE.jpg",
+            "backdrop_path": "static/pic-logo5.png",
             "first_air_date": "2023-06-21",
             "genre_ids": [
                 18,
@@ -50,12 +50,12 @@
                 10759
             ],
             "id": 114472,
-            "name": "Secret Invasion",
+            "name": "സ്‌പീക്കറുടെ  റൂളിംഗ്",
             "origin_country": [
                 "US"
             ],
             "original_language": "en",
-            "original_name": "Secret Invasion",
+            "original_name": "സ്‌പീക്കറുടെ  റൂളിംഗ്",
             "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
             "popularity": 2899.087,
             "poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
@@ -63,7 +63,7 @@
             "vote_count": 402
         },
         {
-            "backdrop_path": "/1Xm0WqoT0DjZm5JdG2V6YFabrOz.jpg",
+            "backdrop_path": "static/pic-logos2.png",
             "first_air_date": "2023-02-13",
             "genre_ids": [
                 10759,
@@ -71,12 +71,12 @@
                 18
             ],
             "id": 215803,
-            "name": "Batang Quiapo",
+            "name": "ബജറ്റ് 2021",
             "origin_country": [
                 "PH"
             ],
             "original_language": "tl",
-            "original_name": "Batang Quiapo",
+            "original_name": "ബജറ്റ് 2021",
             "overview": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
             "popularity": 2883.346,
             "poster_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
@@ -84,19 +84,19 @@
             "vote_count": 51
         },
         {
-            "backdrop_path": "/nhkoXPCnimVLRiEeMmyjXIrgZe4.jpg",
+            "backdrop_path": "static/pic-logos1.png",
             "first_air_date": "2023-07-05",
             "genre_ids": [
                 10759,
                 18
             ],
             "id": 216445,
-            "name": "Fireworks of My Heart",
+            "name": "ബജറ്റ് 2022",
             "origin_country": [
                 "CN"
             ],
             "original_language": "zh",
-            "original_name": "我的人间烟火",
+            "original_name": "ബജറ്റ് 2022",
             "overview": "Fire chief Song Yan and emergency doctor Xu Qin were separated by family opposition when they were younger. Now ten years later, they meet again due to their professions. After experiencing life and death together, they manage to find their way back, working together and encouraging each other. They acknowledge each other's individual growth after years apart, but will they be able to overcome the obstacles in their path this time to stay together?",
             "popularity": 2807.648,
             "poster_path": "/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
@@ -104,18 +104,18 @@
             "vote_count": 16
         },
         {
-            "backdrop_path": "/znjIKAlfJTkcWw6pcD6Bxm4L3dq.jpg",
+            "backdrop_path": "static/pic-logo6.png",
             "first_air_date": "2023-01-16",
             "genre_ids": [
                 18
             ],
             "id": 215546,
-            "name": "Luv Is",
+            "name": "ജനങ്ങൾക്ക് ചോദ്യം ചെയാം..",
             "origin_country": [
                 "PH"
             ],
             "original_language": "tl",
-            "original_name": "Luv Is",
+            "original_name": "ജനങ്ങൾക്ക് ചോദ്യം ചെയാം..",
             "overview": "A Philippine seasonal anthology TV adaptations of the popular Filipino Wattpad web novels. Produced by GMA Network in partnership with Wattpad Webtoon Studios.",
             "popularity": 2669.074,
             "poster_path": "/niTixlDw72jJiDqGwG99TOAx3nd.jpg",
@@ -123,18 +123,18 @@
             "vote_count": 12
         },
         {
-            "backdrop_path": "/lcSvkJ2Rob3ICIOCUJahw3kgSYZ.jpg",
+            "backdrop_path": "static/pic-logo7.png",
             "first_air_date": "2023-03-14",
             "genre_ids": [
                 18
             ],
             "id": 216390,
-            "name": "Woman in a Veil",
+            "name": "ജലമാർഗ ഗതാഗതം ചെലവ് കുറയ്ക്കും ",
             "origin_country": [
                 "KR"
             ],
             "original_language": "ko",
-            "original_name": "비밀의 여자",
+            "original_name": "ജലമാർഗ ഗതാഗതം ചെലവ് കുറയ്ക്കും !",
             "overview": "Jung Gyul Wool loses her vision and ability to walk because of her materialistic husband and his mistress. Despite her shortcomings, she hatches a plot to seek revenge.",
             "popularity": 2639.529,
             "poster_path": "/5ERr09UrnVm0hdXBeefNVtQMxI.jpg",
@@ -142,7 +142,7 @@
             "vote_count": 33
         },
         {
-            "backdrop_path": "/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-01-23",
             "genre_ids": [
                 9648,
@@ -162,7 +162,7 @@
             "vote_count": 53
         },
         {
-            "backdrop_path": "/yJEFbFax9fb8ePB0rK9UIQoXMG4.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-04-17",
             "genre_ids": [
                 18
@@ -181,7 +181,7 @@
             "vote_count": 30
         },
         {
-            "backdrop_path": "/xYiI6QEZvx8Z4La1oHvApyZHpOU.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-01-16",
             "genre_ids": [
                 10766,
@@ -201,7 +201,7 @@
             "vote_count": 44
         },
         {
-            "backdrop_path": "/tio0dduiKFPjOEAf9iPLb9v9MNZ.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2022-11-14",
             "genre_ids": [
                 10759,
@@ -221,7 +221,7 @@
             "vote_count": 31
         },
         {
-            "backdrop_path": "/4VXHABauja7o9hCrt5tf8S6ySSh.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2019-07-08",
             "genre_ids": [
                 10764
@@ -240,7 +240,7 @@
             "vote_count": 17
         },
         {
-            "backdrop_path": "/xYTSIhkbvj6eVN8GxozdEXi6piA.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-06-04",
             "genre_ids": [],
             "id": 226658,
@@ -257,7 +257,7 @@
             "vote_count": 22
         },
         {
-            "backdrop_path": "/5YfFibGB0Mjcl2RHUqztlPBCJp8.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-06-12",
             "genre_ids": [
                 18,
@@ -277,7 +277,7 @@
             "vote_count": 17
         },
         {
-            "backdrop_path": "/fEP2Sha3PXJnAcoGOjr5oybq44Q.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-05-08",
             "genre_ids": [
                 10765,
@@ -317,7 +317,7 @@
             "vote_count": 7
         },
         {
-            "backdrop_path": "/rj3jBAZwPiOgkwAy1205MAgLahj.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2018-08-27",
             "genre_ids": [
                 10766
@@ -336,7 +336,7 @@
             "vote_count": 8
         },
         {
-            "backdrop_path": "/uwazmTlEGwuGuKK1OM1Tc1onXPn.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2023-06-12",
             "genre_ids": [],
             "id": 228459,
@@ -353,7 +353,7 @@
             "vote_count": 27
         },
         {
-            "backdrop_path": "/d1ujVe5yWPJ6mtepghxidUYIJa5.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2020-10-05",
             "genre_ids": [
                 18,
@@ -374,7 +374,7 @@
             "vote_count": 54
         },
         {
-            "backdrop_path": "/1Vj73YrMj4OLBppgZdWXoGZlsGI.jpg",
+            "backdrop_path": "static/pic-logo2.png",
             "first_air_date": "2022-12-05",
             "genre_ids": [
                 18,

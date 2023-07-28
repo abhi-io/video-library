@@ -39,7 +39,7 @@ function ContainerInfo({ data, page = undefined }: ContainerInfoProps) {
             )
           })}
         </ListInfo>
-        <div className={Styles.star()}>
+        {/* <div className={Styles.star()}>
           <Image
             width={40}
             height={40}
@@ -48,7 +48,8 @@ function ContainerInfo({ data, page = undefined }: ContainerInfoProps) {
             alt='rate'
           />
           <span>{data.vote_average.toFixed(2)}</span>
-        </div>
+        </div> */}
+        <br />
         <Button outlined>
           <span className={Styles.buttonContainer()}>
             <PlayCircle />

@@ -45,16 +45,17 @@ function CollectionList({ title, collections }: CollectionListProps) {
               >
                 <Card
                   src={
-                    'https://image.tmdb.org/t/p/w500/' +
-                    collection.backdrop_path
+                    // 'https://image.tmdb.org/t/p/w500/' + collection.backdrop_path
+                    'http://localhost:8000/' + collection.backdrop_path
                   }
                   id={collection.id}
                   genre={collection.genre_ids}
                   alt={collection.name}
                   title={collection.name}
+                  
                 />
               </div>
-            </SwiperSlide>
+            </SwiperSlide> 
           )
         })}
       </Swiper>
