@@ -35,7 +35,8 @@ function Hero({ data }: HeroProps) {
         ref={videoRef}
         onContextMenu={(e) => e.preventDefault()}
       >
-        <source src='justice_league.mp4' type='video/mp4' />
+        {/* <source src='justice_league.mp4' type='video/mp4' /> */}
+        <source src='Nsaba.mp4' type='video/mp4' />
         Your browser does not support HTML5 video.
       </video>
 
