@@ -14,7 +14,7 @@ import 'aos/dist/aos.css'
 import { GenreContext } from 'context'
 import { Router } from 'next/router'
 import { m } from 'vitest/dist/index-ea17aa0c'
-
+ 
 type HomeProps = {
   movies: Array<Movie & { certification: Certification | null }>
   seasons: Array<TVshow & { certification: Certification | null }>
@@ -142,7 +142,7 @@ const Home: NextPage<HomeProps> = ({
       </style>
 
       <Header />
-
+          
       <main className={styles.main} ref={refMain}>
         <GenreContext.Provider value={genreData}>
           <Hero data={heroData} />

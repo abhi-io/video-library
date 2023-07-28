@@ -4,6 +4,12 @@ import * as Styles from './Header.styles'
 import { Menu } from 'react-feather'
 import { Transition } from 'react-transition-group'
 import Link from 'next/link'
+import SearchComponent from '../../../pages/Search.js'
+import SearchResult from '../SearchBar/SearchResult'; 
+import Switch from 'react-switch';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+
+
 
 type HeaderProps = {
   hasBackground?: boolean
@@ -74,6 +80,16 @@ function Header({ hasBackground = true }: HeaderProps) {
             <input type="text" name="" placeholder='Search Text' id="" />
             <input type="submit" value="Search" />
             </li>
+            <button>
+              <Link href="/Search">Advanced Search</Link>
+            </button>
+            {/* < SearchComponent /> */}
+                {/* <Router>
+                  <Switch>
+                    <Route exact path="/" component={SearchComponent} />
+                    <Route path="/search-result" component={SearchResult} />
+                  </Switch>
+                </Router> */}
             <li
               className={Styles.listItem()}
               style={{ animationDelay: '1.1s' }}
