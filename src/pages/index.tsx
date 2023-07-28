@@ -94,7 +94,7 @@ const Home: NextPage<HomeProps> = ({
           content='A Redesign of HBO MAX made with React + Next.js'
         />
         <meta name='twitter:card' content='summary_large_image' />
-        <link rel='icon' href='/img/Logo.svg' /> 
+        <link rel='icon' href='/img/Logo.svg' />
       </Head>
 
       <style jsx global>
@@ -166,7 +166,7 @@ const Home: NextPage<HomeProps> = ({
             }}
           >
             <div className='loading_app'>
-              <svg
+              {/* <svg
                 width='133'
                 height='22'
                 viewBox='0 0 133 22'
@@ -178,6 +178,12 @@ const Home: NextPage<HomeProps> = ({
                   stroke='white'
                   strokeWidth='1px'
                 />
+              </svg> */}
+              {/* <h1 className="loading-screen">
+                N.Saba: Video Library
+              </h1> */}
+              <svg height="100" width="1000" stroke="#ffffff" stroke-width="1" className="text-line">
+                <text className="loading-screen" x="310" y="60" fill="none" font-size="40">N.Saba: Video Library</text>
               </svg>
             </div>
           </div>
