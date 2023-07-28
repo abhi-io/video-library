@@ -78,7 +78,7 @@ function Header({ hasBackground = true }: HeaderProps) {
               className={Styles.listItem()}
               style={{ animationDelay: '1.1s' }}
             >
-              Hi, Rahul SJ
+              Hi, Rahul Raj
             </li>
           </ul>
         </header>

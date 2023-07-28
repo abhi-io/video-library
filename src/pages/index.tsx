@@ -77,7 +77,7 @@ const Home: NextPage<HomeProps> = ({
   return (
     <>
       <Head>
-        <title>HBO MAX</title>
+        <title>N.Saba</title>
         <meta
           name='description'
           content='HBO MAX Redesign made with React and Next.js'
