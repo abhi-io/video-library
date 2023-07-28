@@ -15,6 +15,7 @@ type CollectionListProps = {
 
 function CollectionList({ title, collections }: CollectionListProps) {
   return (
+    
     <div className={Styles.Container()}>
       <h1 className={Styles.Title()}>{title}</h1>
       <Swiper
@@ -44,6 +45,7 @@ function CollectionList({ title, collections }: CollectionListProps) {
                 data-aos-delay={i * 100}
                 style={{ height: '100%' }}
               >
+                <div className="tooltip-wrap">
                 
                 <Collection
                   src={
@@ -53,12 +55,20 @@ function CollectionList({ title, collections }: CollectionListProps) {
                   }
                   
                   alt={collection.title}
-                />
+                   
+                />  
+                  
+                    <div className="tooltip-content">
+                        {collection.overview}
+                  </div> 
+                  </div>
               </div>
             </SwiperSlide>
           )
         })}
       </Swiper>
+
+       
     </div>
   )
 }

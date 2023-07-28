@@ -39,7 +39,11 @@ function Collection({ src, alt, link }: CollectionProps) {
             blurDataURL='/img/blur.png'
             onError={() => setImgSrc('/img/error.png')}
           />
+
+
+
         </div>
+        
       )}
     </>
   )
