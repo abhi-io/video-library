@@ -59,7 +59,7 @@ async def root(movie_id:str):
                 "iso_3166_1": "US",
                 "release_dates": [
                     {
-                    "certification": "PG-13",
+                    "certification": "id:87a27",
                     "descriptors": [],
                     "iso_639_1": "",
                     "note": "",
@@ -117,22 +117,22 @@ async def root():
         "genres": [
             {
                 "id": 28,
-                "name": "Action"
+                "name": "#രജതജൂബിലി"
             },
             {
                 "id": 12,
-                "name": "Adventure"
+                "name": "#നിയമസഭാ"
             },
             {
                 "id": 14,
-                "name": "Fantasy"
+                "name": "#ആഘോഷം"
             }
         ],
         "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
         "id": 791373,
         "imdb_id": "tt12361974",
         "original_language": "en",
-        "original_title": "Zack Snyder's Justice League",
+        "original_title": "aaaaaaaaaaaZack Snyder's Justice League",
         "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
         "popularity": 124.932,
         "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
@@ -180,7 +180,7 @@ async def root():
                 "name": "United States of America"
             }
         ],
-        "release_date": "2021-03-18",
+        "release_date": "2023/May",
         "revenue": 0,
         "runtime": 242,
         "spoken_languages": [
@@ -192,7 +192,7 @@ async def root():
         ],
         "status": "Released",
         "tagline": "Us united.",
-        "title": "Zack Snyder's Justice League",
+        "title": "നിയമസഭാ മന്ദിരത്തിന്റെ രജതജൂബിലി ആഘോഷത്തോടനുബന്ധിച്ച്",
         "video": False,
         "vote_average": 8.201,
         "vote_count": 9021
