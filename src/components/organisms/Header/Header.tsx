@@ -61,20 +61,24 @@ function Header({ hasBackground = true }: HeaderProps) {
                 className={Styles.listItem()}
                 style={{ animationDelay: '.5s' }}
               >
-                Home
+                Archives
               </li>
             </Link>
             <li className={Styles.listItem()} style={{ animationDelay: '.7s' }}>
-              Movies
+              Saved List
             </li>
-            <li className={Styles.listItem()} style={{ animationDelay: '.9s' }}>
+            {/* <li className={Styles.listItem()} style={{ animationDelay: '.9s' }}>
               TV shows
+            </li> */}
+            <li>
+            <input type="text" name="" placeholder='Search Text' id="" />
+            <input type="submit" value="Search" />
             </li>
             <li
               className={Styles.listItem()}
               style={{ animationDelay: '1.1s' }}
             >
-              Animations
+              Hi, Rahul SJ
             </li>
           </ul>
         </header>

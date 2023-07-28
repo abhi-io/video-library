@@ -94,7 +94,7 @@ const Home: NextPage<HomeProps> = ({
           content='A Redesign of HBO MAX made with React + Next.js'
         />
         <meta name='twitter:card' content='summary_large_image' />
-        <link rel='icon' href='/img/Logo.svg' />
+        <link rel='icon' href='/img/Logo.svg' /> 
       </Head>
 
       <style jsx global>

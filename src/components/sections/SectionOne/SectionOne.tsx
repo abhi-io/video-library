@@ -13,9 +13,9 @@ type SectionOneProps = {
 function SectionOne({ data }: SectionOneProps) {
   return (
     <section className={Styles.SectionOne()}>
-      <CollectionCardList title='Popular TV Shows' collections={data.seasons} />
-      <CollectionList title='The Top Trending' collections={data.mostPopular} />
-      <CollectionList title='Popular Movies' collections={data.movies} />
+      <CollectionCardList title='Popular Videos' collections={data.seasons} />
+      <CollectionList title='Trending Searches' collections={data.mostPopular} />
+      <CollectionList title='recently Added' collections={data.movies} />
     </section>
   )
 }
